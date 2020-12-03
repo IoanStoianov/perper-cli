@@ -5,7 +5,7 @@
 ## Prerequisite
   * [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
   * [Docker](https://docs.docker.com/get-docker/)
-  * [Azure Functions Cli v3.x] (https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local?tabs=linux%2Ccsharp%2Cbash)
+  * [Azure Functions Cli v3.x](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local?tabs=linux%2Ccsharp%2Cbash)
   
 ### Interaction with Perper Fabric
 
