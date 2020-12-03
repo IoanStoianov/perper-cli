@@ -1,6 +1,4 @@
 on: 
-  workflow_dispatch:
-
   release:
     types: [created]
 
@@ -23,4 +21,4 @@ jobs:
         goversion: "https://dl.google.com/go/go1.15.5.linux-amd64.tar.gz"
         project_path: "./cli"
         binary_name: "perper-cli"
-        overwrite: true
+        extra_files: ./cli/README.md
