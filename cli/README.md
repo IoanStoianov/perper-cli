@@ -1,6 +1,6 @@
 # Perper CLI
 
-### Crossplatform cli support for Perper.
+Crossplatform cli support for Perper.
 
 ## Prerequisite
   * [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
